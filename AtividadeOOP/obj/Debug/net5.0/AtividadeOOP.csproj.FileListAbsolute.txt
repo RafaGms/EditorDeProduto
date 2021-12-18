@@ -1,0 +1,16 @@
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.exe
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.deps.json
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.runtimeconfig.json
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.dll
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\ref\AtividadeOOP.dll
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\bin\Debug\net5.0\AtividadeOOP.pdb
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.dll
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\ref\AtividadeOOP.dll
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.pdb
+C:\Users\Rafael\Desktop\AtividadeOOP\AtividadeOOP\obj\Debug\net5.0\AtividadeOOP.genruntimeconfig.cache
